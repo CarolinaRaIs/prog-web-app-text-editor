@@ -59,11 +59,20 @@ A text editor that runs in the browser.
 
     To use the prog-web-app-text-editor you can directly go to the Heroku link without having to do anything else. 
 
-Site on Heroku:
-![plot](./antiSocial-Network-Route-Test-Example.png)
+Site on Heroku showing downloadable abilities:
+![plot](./Assets/PWA-heroku-install.png)
+
+The application's manifest.json file:
+![plot](./Assets/PWA-install-manifest.png)
+
+The applications's service worker:
+![plot](./Assets/PWA-app-registered-service-worker.png)
+
+The applications IndexedDB:
+![plot](./Assets/PWA-app-IndexedDB.png)
 
     Heroku Link:
-
+    https://prog-web-app-text-editor.herokuapp.com/ 
 
     To access the Github Repository visit:
     https://github.com/CarolinaRaIs/prog-web-app-text-editor
